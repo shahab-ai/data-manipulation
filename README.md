@@ -1,2 +1,2 @@
 # data-manipulation
-Numer.ai
+Please see the [Jupyter Notebook](./notebook/notebook.ipynb)
